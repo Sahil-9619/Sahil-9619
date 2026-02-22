@@ -27,19 +27,15 @@
 </p>
 
 ---
+## 🌐 Connect With Me
 
-### 🔥 Most Used Languages
+<p align="left">
+<a href="https://linkedin.com/in/sahil-230" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<a href="https://leetcode.com/sahil9619/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="leetcode" height="40" width="40" />
+</a>
 </p>
-
----
-
-### 📫 Connect With Me
-
-- 📧 Email: (sahilkumar242004@gmail.com)
-
----
-
 ⭐ From [Sahil-9619](https://github.com/Sahil-9619)
