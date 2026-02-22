@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,100:8A2BE2&height=180&section=header&text=email:sahilkumar242004@gmail.com&fontSize=40&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=180&section=header&text=email:sahilkumar242004@gmail.com&fontSize=30&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Developer;MERN+Stack+Developer;React+Enthusiast;Building+Modern+Web+Applications" />
 </p>
@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://leetcode.com/sahil9619/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
 </a>
 </p>
 <p align="center">
