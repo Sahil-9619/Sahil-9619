@@ -7,30 +7,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 I’m currently working on MERN Stack Projects
-- 🚀 Building an Online Book Store using MERN
-- 🤖 Integrating AI Chatbot in React App
-- 📚 Learning Advanced JavaScript & Next.js
-- 🎯 Goal: Become a Full Stack Developer
-
----
-
-### 🛠️ Tech Stack
+- A Full Stack Developer with strong knowledge in mern stack developement , also having knowledge of Django,PHP and MySql ,worked on real-world projects build . I m always ready to learn new things and work on it.
+- Served as Google Student Ambassador for 5 months.
+  
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,php,mysql,git,github,vscode" />
 </p>
 
----
-
-### 📂 My Projects
-
-- 📚 **Online Book Store (MERN Stack)**
-- 💼 **Minor Project - Job Portal Website**
-- 🤖 **AI Chatbot Integration in React**
-- 🌐 Portfolio Website (Coming Soon)
-
----
 
 ### 📊 GitHub Stats
 
@@ -54,9 +38,8 @@
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 📧 Email: (sahilkumar242004@gmail.com)
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐ From [Sahil-9619](https://github.com/Sahil-9619)
