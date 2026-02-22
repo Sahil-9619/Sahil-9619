@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;React+Enthusiast;Building+Modern+Web+Apps" />
 </p>
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">Frontend Developer | MERN Stack Developer | React Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Developer |</h3>
 
 ---
 
