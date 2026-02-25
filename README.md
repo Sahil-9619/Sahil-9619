@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
 
-### 👨‍💻 About Me
+👨‍💻 About Me
 - Passionate Software Developer specializing in the MERN stack, with experience in building scalable web applications and real-world projects. Strong foundation in backend and frontend development, always eager to learn and adapt to new technologies.
 - Served as Google Student Ambassador for 5 months.
   
@@ -19,7 +19,7 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
-### 📊 GitHub Stats
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahil-9619&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
@@ -32,11 +32,11 @@
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
 
-## 🐍 Contribution Graph
+🐍 Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/Sahil-9619/Sahil-9619/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sahil-kumar230/" target="blank">
