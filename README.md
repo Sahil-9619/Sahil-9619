@@ -39,7 +39,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/sahil-230" target="blank">
+<a href="https://www.linkedin.com/in/sahil-kumar230/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
