@@ -11,7 +11,6 @@
 
 👨‍💻 About Me
 - Passionate Software Developer specializing in the MERN stack, with experience in building scalable web applications and real-world projects. Strong foundation in backend and frontend development, always eager to learn and adapt to new technologies.
-- Served as Google Student Ambassador for 5 months.
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
 <p align="left">
