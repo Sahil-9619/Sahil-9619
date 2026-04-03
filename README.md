@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f7ff&height=180&section=header&text=email:sahilkumar242004@gmail.com&fontSize=30&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Developer;MERN+Stack+Developer;React+Enthusiast;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications(SaaS)" />
 </p>
 <h3 align="center">⚡ Building Scalable Web Applications & Modern User Interfaces</h3>
 
