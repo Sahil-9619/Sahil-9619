@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f7ff&height=180&section=header&text=Full%20Stack%20%7C%20Android%20Developer&fontSize=30&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f7ff&height=180&section=header&text=Full%20Stack%20Web%20%7C%20Android%20Developer&fontSize=30&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Android+Developer;React+Native+Developer;Building+Scalable+Web+%26+Mobile+Applications;Always+Learning+New+Technologies" />
