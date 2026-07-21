@@ -52,9 +52,16 @@
 
 📊 GitHub Stats
 
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahil-9619&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-9619&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-9619&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-9619&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Sahil-9619&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-9619&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
 
