@@ -89,6 +89,12 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+<a href="https://sahilkumardev230.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" height="45"/>
+</a>
+
+</p>
+
 <a href="mailto:sahilkumar242004@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
