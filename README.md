@@ -103,9 +103,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="42"/>
 </a>
 
-<a href="https://github.com/Sahil-9619" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+
 
 </p>
 
