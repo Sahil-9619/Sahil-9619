@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-⚡ Building Scalable Web Applications, Modern Android Apps & Beautiful User Interfaces
+⚡ Building Scalable Web Applications, Modern Android Apps & Beautiful User Interfaces.
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
