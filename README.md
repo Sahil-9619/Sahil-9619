@@ -1,122 +1,167 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f7ff&height=180&section=header&text=Full%20Stack%20Web%20%7C%20Android%20Developer&fontSize=30&fontAlignY=40&fontColor=ffffff&animation=fadeIn" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Android+Developer;React+Native+Developer;Building+Scalable+Web+%26+Mobile+Applications;Always+Learning+New+Technologies" />
-</p>
-
 <h3 align="center">
-⚡ Building Scalable Web Applications, Modern Android Apps & Beautiful User Interfaces.
+Full Stack Web Developer • React Native Developer • Android Developer
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
-
-# 👨‍💻 About Me
-
-- 💻 Full Stack Developer passionate about building scalable and high-performance applications.
-- 📱 Android Developer creating cross-platform mobile apps using **React Native**.
-- ⚛️ Experienced in developing modern web applications with the **MERN Stack**.
-- 🚀 Love solving real-world problems through clean architecture and efficient code.
-- 🌱 Currently exploring advanced backend development, system design, cloud deployment, and AI integration.
-- 🎯 Always learning new technologies and building impactful products.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
-
-# 🛠 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgres,prisma,redux,typescript,javascript,react,django,php,java,androidstudio,react,git,github,docker,postman,vscode,firebase" />
-</p>
-
-### 📱 Mobile Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,androidstudio,firebase" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
-
-# 🚀 What I Build
-
-- 🌐 Full Stack Web Applications
-- 📱 Android Applications (React Native)
-- 🔐 Authentication & Authorization Systems
-- 💳 Payment Integration
-- 🤖 AI-powered Applications
-- 📊 Admin Dashboards
-- ☁️ REST APIs & Backend Services
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
-
-📊 GitHub Stats
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-9619&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Sahil-9619&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=Building+Scalable+Web+Applications;React+Native+Developer;Android+Developer;Backend+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-9619&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://komarev.com/ghpvc/?username=Sahil-9619&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/Sahil-9619?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Sahil-9619?style=for-the-badge"/>
 </p>
+# 💫 About Me
 
+💻 Full Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
+📱 React Native & Android Developer
 
-🏆 GitHub Achievements
+⚛️ MERN Stack Specialist
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sahil-9619&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" /> </p>
+🚀 Passionate about scalable architecture
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
+🤖 Interested in AI Applications
 
-# 🐍 Contribution Graph
+☁️ Learning Cloud & System Design
 
-<p align="center">
+🎯 Open to Full Stack & Mobile Development Opportunities
+<p>
 
-![Snake animation](https://raw.githubusercontent.com/Sahil-9619/Sahil-9619/output/github-contribution-grid-snake.svg)
-
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2&section=footer" />
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sahil-kumar230/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://sahilkumardev230.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" height="45"/>
-</a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,typescript,javascript,html,css"/>
 
 </p>
+<p>
 
-<a href="mailto:sahilkumar242004@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://leetcode.com/sahil9619/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="42"/>
-</a>
-
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,php"/>
 
 </p>
+<p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahil-9619&label=Profile%20Views&color=00f7ff&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,firebase"/>
+
+</p><p>
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio"/>
+
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react"/>
+
 </p>
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+
+</p>
+# 🚀 Featured Projects
+
+### 🏛 JanSwar AI
+
+AI-powered civic engagement platform
+
+Next.js • React Native • Node.js • PostgreSQL • Prisma
+
+⭐ AI sentiment analysis
+
+⭐ Admin Dashboard
+
+⭐ Mobile App
 
 ---
 
-<h3 align="center">
-⭐ Building innovative Web & Android applications, one project at a time 🚀
-</h3>
+### 📚 LitCart
 
-<h4 align="center">
-Thanks for visiting my profile ❤️
-</h4>
+Modern AI Book Store
+
+React
+
+Node.js
+
+MongoDB
+
+OpenAI
+
+---
+
+### 🏫 Coaching Institute ERP
+
+Student Management
+
+Attendance
+
+Fee Management
+
+Dashboard
+
+---
+
+### 🚗 Parking Management System
+
+Role-based authentication
+
+Admin Dashboard
+
+Analytics
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahil-9619&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-9619&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-9619&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-9619&theme=tokyo-night"/>
+![Snake animation](https://raw.githubusercontent.com/Sahil-9619/Sahil-9619/output/github-contribution-grid-snake.svg)
+# 🏆 Achievements
+
+🏅 Google Student Ambassador
+
+🏅 Full Stack Developer
+
+🏅 React Native Developer
+
+🏅 Open Source Contributor
+
+🏅 Built Multiple Production Projects
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+<a href="mailto:sahilkumar242004@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://leetcode.com/sahil9619/">
+
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+</p>
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+Let's build something amazing together 🚀
+
+</h3>
